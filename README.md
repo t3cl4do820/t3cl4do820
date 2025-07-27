@@ -27,7 +27,7 @@ Atualmente eu estudo:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,go,sqlite,vscode,windows,devto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,go,python,sqlite,vscode,windows,devto)](https://skillicons.dev)
 
 <hr>
 
