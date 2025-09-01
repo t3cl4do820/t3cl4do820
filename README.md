@@ -1,42 +1,41 @@
-# Salve Desenvolvedores!
-Meu nome é Lucas Rabello e por enquanto eu estudo para me tornar um dev back-end.
+## Hi there, I'm Lucas Rabello!
 
-Atualmente eu estudo:
-- 💻 Itinerário Técnico em Desenvolvimento de Sistemas 
-- 🧸Golang
+```go
+package LucasRabello
 
+func GetObjective() string {
+    return "My goal is to become a back-end engineer"
+}
 
-### Foco na Linguagem GO (Golang) para a criação de microsserviços, servidores web, ferramentas de linha de comando CLI, infraestrutura e serviços back-end com alta performace e concorência.
-  
-> 💡 Dica: Segure Ctrl (ou Cmd no Mac) e clique nos links pra abrir em nova aba.
+func GetCurrentStudy() []string {
+    return []string{
+        "Technical Itinerary in Systems Development",
+        "Golang",
+    }
+}
 
+func GetSocialMedia() map[string]string {
+    return map[string]string {
+        "Instagram":"https://www.instagram.com/lcs.carvalho_/?next=%2F",
+        "Linkedin":"https://www.linkedin.com/in/lucas-rabello-42b23a339",
+        // Join a Discord community to interact with other devs
+        "Discord":"https://discord.gg/6meEEqs2",
+        "LeetCode":"https://leetcode.com/u/lucas-rabello-dev/",
+    }
+}
 
-## Redes sociais:
+func GetHardSkills() []string {
+    return []string{
+        "Golang",
+        "Git and GitHub",
+        "MySQL workbench",
+    }
+}
+
+```
+
 <hr>
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-rabello-42b23a339/) -->
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lcs.carvalho_/?next=%2F) 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-rabello-42b23a339) 
-
-## Entre em uma comunidade no Discord para interagir com outros Devs
-<hr>
-
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/6meEEqs2) 
-
-## LeetCode:
-[![LeetCode](https://img.shields.io/badge/LeetCode-Lucas--Rabello--Dev-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/lucas-rabello-dev/)
-
-
-## Tecnologias e ferramentas que eu uso/conheço:
-<hr>
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,go,python,sqlite,vscode,windows,devto)](https://skillicons.dev)
-
-<hr>
-
-## Estatísticas:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-rabello-dev&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-rabello-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
