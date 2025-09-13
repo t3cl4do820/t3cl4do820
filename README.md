@@ -18,8 +18,6 @@ func GetSocialMedia() map[string]string {
     return map[string]string {
         "Instagram":"https://www.instagram.com/lcs.carvalho_/?next=%2F",
         "Linkedin":"https://www.linkedin.com/in/lucas-rabello-42b23a339",
-        // Join a Discord community to interact with other devs
-        "Discord":"https://discord.gg/6meEEqs2",
         "LeetCode":"https://leetcode.com/u/lucas-rabello-dev/",
     }
 }
