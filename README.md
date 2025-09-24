@@ -4,7 +4,7 @@
 package LucasRabello
 
 func GetObjective() string {
-    return "My goal is to become a back-end engineer"
+    return "My goal is to become a software engineer"
 }
 
 func GetCurrentStudy() []string {
