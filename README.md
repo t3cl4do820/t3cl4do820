@@ -35,7 +35,7 @@ func GetHardSkills() []string {
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-rabello-dev&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-rabello-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
