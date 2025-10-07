@@ -27,6 +27,8 @@ func GetHardSkills() []string {
         "Golang",
         "Git and GitHub",
         "MySQL workbench",
+        "Linux Ubuntu",
+        "Windows"
     }
 }
 
