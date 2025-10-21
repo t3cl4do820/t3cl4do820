@@ -11,6 +11,7 @@ func GetCurrentStudy() []string {
     return []string{
         "Technical Itinerary in Systems Development",
         "Golang",
+        "Java",
     }
 }
 
