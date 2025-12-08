@@ -51,7 +51,7 @@ I enjoy digging into the fundamentals: performance, architecture, and the intern
 
 <hr>
 
-My humble leetcode profile: [leetcode](https://leetcode.com/profile/)
+My humble leetcode profile: [leetcode](https://leetcode.com/u/lucas-rabello-dev/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-rabello-dev&show_icons=true&theme=tokyonight)
 
