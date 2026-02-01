@@ -44,7 +44,7 @@ from CPU instructions to backend architecture.
 - Low-level programming ❤
 - GNU/Linux & the UNIX philosophy 💡
 - Backend engineering with Go 💪
-- I'm currently learning Go, C, Assembly x86-64 linux
+- I'm currently learning Go, C, Java
 <!-- - Systems programming (C, C++, Assembly) -->
 
 I enjoy digging into the fundamentals: performance, architecture, and the internals that keep software running.
