@@ -1,53 +1,10 @@
 ## Hi there, I'm Lucas Rabello!
 
-<!--
-```go
-package LucasRabello
-
-func GetObjective() string {
-    return "My goal is to become a software engineer"
-}
-
-func GetCurrentStudy() []string {
-    return []string{
-        "Technical Itinerary in Systems Development",
-        "Golang",
-    }
-}
-
-func GetSocialMedia() map[string]string {
-    return map[string]string {
-        "Instagram":"https://www.instagram.com/lcs.carvalho_/?next=%2F",
-        "Linkedin":"https://www.linkedin.com/in/lucas-rabello-42b23a339",
-        "LeetCode":"https://leetcode.com/u/lucas-rabello-dev/",
-    }
-}
-
-func GetHardSkills() []string {
-    return []string{
-        "Golang",
-        "Git and GitHub",
-        "MySQL workbench",
-        "Linux",
-        "Windows"
-    }
-}
-
-```
-
-<hr>
--->
-
-Self-taught developer focused on understanding how systems work under the hood —  
-from CPU instructions to backend architecture.
+Self-taught developer.
 
 - Low-level programming ❤
-- GNU/Linux & the UNIX philosophy 💡
-- Backend engineering with Go 💪
-- I'm currently learning Go, C, Assembly x86-64 linux
-<!-- - Systems programming (C, C++, Assembly) -->
 
-I enjoy digging into the fundamentals: performance, architecture, and the internals that keep software running.
+I want to use [Gentoo](https://www.gentoo.org/) someday!
 
 <hr>
 
