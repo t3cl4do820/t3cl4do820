@@ -10,7 +10,7 @@ I want to use [Gentoo](https://www.gentoo.org/) someday!
 
 My humble leetcode profile: [leetcode](https://leetcode.com/u/lucas-rabello-dev/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-rabello-dev&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3cl4do820&show_icons=true&theme=tokyonight)
 
 
 <!--
