@@ -3,3 +3,6 @@
 Self-taught developer.
 
 I will use my GitHub for my study repositories. If you want to see my projects, visit my [SourceHut](https://sr.ht/~t3cl4do820/).
+
+## Profile Views:
+![t3cl4do820](https://count.getloli.com/get/@t3cl4do820?theme=sketch-1)  
