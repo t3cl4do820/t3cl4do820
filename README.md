@@ -12,11 +12,16 @@ Next, I'm going to study _**operating systems**_, just as a hobby. I want to und
 
 ---
 
+<div align="center">
+
 ### My Goal
+
+
 I'm aiming at embedded systems and performance-oriented programming.
 
-<div align="center">
-  
+
+---
+
 ![](https://komarev.com/ghpvc/?username=t3cl4do820)
 
 </div>
